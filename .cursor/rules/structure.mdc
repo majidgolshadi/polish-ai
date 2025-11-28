@@ -1,0 +1,9 @@
+---
+description: Project structure
+alwaysApply: true
+---
+
+- firefix-extention directory contains firefox intension belonging files.
+- server directory contains server files.
+- chrome-plugin directory contains chrome plugin belongings files.
+- always use snake_case for file names
